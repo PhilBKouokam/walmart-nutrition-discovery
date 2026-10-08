@@ -1,0 +1,94 @@
+{
+  "access": "owner-only; external recipients currently cannot open these links",
+  "verification": "Routes exist in the source and deterministic state tests pass; browser capture remains unverified. Nutrient minimum grams and maximum calories are numeric, user-editable controls shown only for selected filters.",
+  "walkthroughs": [
+    {
+      "title": "Show all filters at a glance",
+      "url": "https://low-cal-filter-walkthrough.kouokambryan.chatgpt.site/layout.html",
+      "states": [
+        {
+          "label": "Single-line layout example",
+          "url": "https://low-cal-filter-walkthrough.kouokambryan.chatgpt.site/layout.html?mode=single"
+        },
+        {
+          "label": "Same choices, wrapping",
+          "url": "https://low-cal-filter-walkthrough.kouokambryan.chatgpt.site/layout.html?mode=wrap"
+        }
+      ]
+    },
+    {
+      "title": "Make the low-calorie filter easy to find",
+      "url": "https://low-cal-filter-walkthrough.kouokambryan.chatgpt.site/index.html",
+      "states": [
+        {
+          "label": "Observed single-line layout",
+          "url": "https://low-cal-filter-walkthrough.kouokambryan.chatgpt.site/index.html?step=0"
+        },
+        {
+          "label": "Visible Low cal shortcut",
+          "url": "https://low-cal-filter-walkthrough.kouokambryan.chatgpt.site/index.html?step=1"
+        },
+        {
+          "label": "Choose calorie range",
+          "url": "https://low-cal-filter-walkthrough.kouokambryan.chatgpt.site/index.html?step=1&panel=calories"
+        },
+        {
+          "label": "Filtered results",
+          "url": "https://low-cal-filter-walkthrough.kouokambryan.chatgpt.site/index.html?step=2&range=0"
+        }
+      ]
+    },
+    {
+      "title": "Let shoppers choose their protein amount",
+      "url": "https://low-cal-filter-walkthrough.kouokambryan.chatgpt.site/energy.html",
+      "states": [
+        {
+          "label": "Observed single-line layout",
+          "url": "https://low-cal-filter-walkthrough.kouokambryan.chatgpt.site/energy.html?step=0"
+        },
+        {
+          "label": "Wrapped relevant chips",
+          "url": "https://low-cal-filter-walkthrough.kouokambryan.chatgpt.site/energy.html?step=1"
+        },
+        {
+          "label": "Protein only",
+          "url": "https://low-cal-filter-walkthrough.kouokambryan.chatgpt.site/energy.html?step=1&protein=1&calories=0"
+        },
+        {
+          "label": "Calories only",
+          "url": "https://low-cal-filter-walkthrough.kouokambryan.chatgpt.site/energy.html?step=1&protein=0&calories=1"
+        },
+        {
+          "label": "Both selected",
+          "url": "https://low-cal-filter-walkthrough.kouokambryan.chatgpt.site/energy.html?step=2"
+        }
+      ]
+    },
+    {
+      "title": "Let shoppers choose their fiber amount",
+      "url": "https://low-cal-filter-walkthrough.kouokambryan.chatgpt.site/fiber.html",
+      "states": [
+        {
+          "label": "Reference-style single-line layout",
+          "url": "https://low-cal-filter-walkthrough.kouokambryan.chatgpt.site/fiber.html?step=0"
+        },
+        {
+          "label": "Wrapped relevant chips",
+          "url": "https://low-cal-filter-walkthrough.kouokambryan.chatgpt.site/fiber.html?step=1"
+        },
+        {
+          "label": "Fiber only",
+          "url": "https://low-cal-filter-walkthrough.kouokambryan.chatgpt.site/fiber.html?step=1&fiber=1&calories=0"
+        },
+        {
+          "label": "Calories only",
+          "url": "https://low-cal-filter-walkthrough.kouokambryan.chatgpt.site/fiber.html?step=1&fiber=0&calories=1"
+        },
+        {
+          "label": "Both selected",
+          "url": "https://low-cal-filter-walkthrough.kouokambryan.chatgpt.site/fiber.html?step=2"
+        }
+      ]
+    }
+  ]
+}

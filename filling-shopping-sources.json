@@ -1,0 +1,235 @@
+{
+  "retrievedAt": "2026-10-05T20:19:28Z",
+  "purpose": "Source-backed shopping detail snapshots for a private product-filter prototype.",
+  "sourceMethod": "Cached public Walmart product-page text, retrieved with web search tools. Approximate crawl ages are as reported by that tool.",
+  "sharedCaveats": [
+    "Prices and review counts are source snapshots, not live or location-specific offers. No local store, stock, delivery date, seller, tax, shipping, or checkout total was verified.",
+    "Ratings and written reviews are separate counts. Walmart may combine product variants in its review totals; pack-specific review totals were not established.",
+    "Existing nutrition evidence is preserved from product-sources.json; this shopping-detail check did not re-verify nutrition images."
+  ],
+  "products": [
+    {
+      "id": "great-value-no-sugar-apple",
+      "walmartItemId": "13925174",
+      "name": "Great Value No Sugar Added Apple Pie Filling & Topping, 20 oz",
+      "productUrl": "https://www.walmart.com/ip/Great-Value-No-Sugar-Added-Apple-Pie-Filling-Topping-20-oz/13925174",
+      "pack": {
+        "count": 1,
+        "eachNetWeightOz": 20,
+        "totalNetWeightOz": 20,
+        "display": "Single · 20 oz"
+      },
+      "displayedPriceUSD": 2.53,
+      "unitPrice": {
+        "display": "12.7¢/oz",
+        "centsPerOunce": 12.7,
+        "source": "Displayed by Walmart",
+        "calculatedUnroundedCentsPerOunce": 12.65
+      },
+      "rating": 4.6,
+      "ratingCount": 1894,
+      "reviewCount": 338,
+      "ratingDisplay": "4.6 · 1,894 ratings",
+      "reviewDisplay": "338 written reviews",
+      "description": "Gluten-free apple filling and topping with no added sugar, sweetened with sucralose.",
+      "nutrition": {
+        "calories": 30,
+        "servingSize": "1/3 cup (85g)",
+        "servingGrams": 85,
+        "provenance": "Existing visually verified label in product-sources.json"
+      },
+      "snapshotCrawlAge": "2 weeks ago",
+      "priceCaveat": "The retrieved single-pack snapshot is $2.53; an earlier prototype source captured $2.48. Use one snapshot consistently.",
+      "availability": {
+        "verifiedCurrent": false,
+        "display": "Check Walmart for availability"
+      },
+      "evidence": [
+        {
+          "url": "https://www.walmart.com/ip/13925174",
+          "section": "Product header and pack selector",
+          "lineRange": "296–320",
+          "supports": [
+            "name",
+            "pack",
+            "displayedPriceUSD",
+            "unitPrice",
+            "rating",
+            "ratingCount"
+          ]
+        },
+        {
+          "url": "https://www.walmart.com/ip/13925174",
+          "section": "Key item features",
+          "lineRange": "329–335",
+          "supports": [
+            "description"
+          ]
+        },
+        {
+          "url": "https://www.walmart.com/ip/13925174",
+          "section": "Customer ratings & reviews",
+          "lineRange": "509–519",
+          "supports": [
+            "rating",
+            "ratingCount",
+            "reviewCount"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lucky-leaf-apple",
+      "walmartItemId": "10291296",
+      "name": "Lucky Leaf Apple Pie Filling, 21 oz",
+      "productUrl": "https://www.walmart.com/ip/Lucky-Leaf-Apple-Pie-Filling-21-Oz/10291296",
+      "pack": {
+        "count": 1,
+        "eachNetWeightOz": 21,
+        "totalNetWeightOz": 21,
+        "display": "Single · 21 oz"
+      },
+      "displayedPriceUSD": 7.85,
+      "priceType": "Single-pack selector price; seller options also start at $7.85",
+      "unitPrice": {
+        "display": "37.4¢/oz",
+        "centsPerOunce": 37.4,
+        "source": "Calculated from $7.85 ÷ 21 oz; not directly displayed for the single pack",
+        "calculatedUnroundedCentsPerOunce": 37.38095238095238
+      },
+      "rating": 4.6,
+      "ratingCount": 363,
+      "reviewCount": 47,
+      "ratingDisplay": "4.6 · 363 ratings",
+      "reviewDisplay": "47 written reviews",
+      "description": "Gluten-free apple fruit filling without high-fructose corn syrup, suitable for pies, cobblers, or dessert toppings.",
+      "nutrition": {
+        "calories": 90,
+        "servingSize": "1/3 cup (85g)",
+        "servingGrams": 85,
+        "provenance": "Existing visually verified label in product-sources.json"
+      },
+      "snapshotCrawlAge": "2 months ago",
+      "priceCaveat": "Walmart shows $7.85 for the single 21 oz option. The nearby $7.72 and 18.4¢/oz values belong to the separate two-pack. Seller identity and fees were not verified.",
+      "availability": {
+        "verifiedCurrent": false,
+        "display": "Check Walmart for availability"
+      },
+      "evidence": [
+        {
+          "url": "https://www.walmart.com/ip/10291296",
+          "section": "Product header and pack selector",
+          "lineRange": "289–311",
+          "supports": [
+            "name",
+            "pack",
+            "displayedPriceUSD",
+            "unitPrice calculation inputs",
+            "rating",
+            "ratingCount"
+          ]
+        },
+        {
+          "url": "https://www.walmart.com/ip/10291296",
+          "section": "Key item features",
+          "lineRange": "320–322",
+          "supports": [
+            "description"
+          ]
+        },
+        {
+          "url": "https://www.walmart.com/ip/10291296",
+          "section": "More seller options",
+          "lineRange": "338–340",
+          "supports": [
+            "priceType"
+          ]
+        },
+        {
+          "url": "https://www.walmart.com/ip/10291296",
+          "section": "Customer ratings & reviews",
+          "lineRange": "777–785",
+          "supports": [
+            "rating",
+            "ratingCount",
+            "reviewCount"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "comstock-country-apple",
+      "walmartItemId": "10307750",
+      "name": "Duncan Hines Comstock, Country Apple Pie Filling & Topping, Ready to Use, 21 oz.",
+      "productUrl": "https://www.walmart.com/ip/Comstock-Original-Country-Apple-Pie-Filling-Or-Topping-21-oz/10307750",
+      "pack": {
+        "count": 1,
+        "eachNetWeightOz": 21,
+        "totalNetWeightOz": 21,
+        "display": "Single · 21 oz"
+      },
+      "displayedPriceUSD": 2.74,
+      "unitPrice": {
+        "display": "13.0¢/oz",
+        "centsPerOunce": 13,
+        "source": "Displayed by Walmart",
+        "calculatedUnroundedCentsPerOunce": 13.047619047619047
+      },
+      "rating": 4.5,
+      "ratingCount": 372,
+      "reviewCount": 71,
+      "ratingDisplay": "4.5 · 372 ratings",
+      "reviewDisplay": "71 written reviews",
+      "description": "Ready-to-use cinnamon apple filling for pies, cobblers, cakes, or spooning over pancakes.",
+      "nutrition": {
+        "calories": 110,
+        "servingSize": "1/3 cup (89g)",
+        "servingGrams": 89,
+        "conflictingMarketingCalories": 100,
+        "provenance": "Existing visually verified nutrition-label and marketing images in product-sources.json",
+        "caveat": "Nutrition label shows 110 calories per 89 g, while a separate gallery marketing image says 100 calories per serving. Preserve this discrepancy."
+      },
+      "snapshotCrawlAge": "4 months ago",
+      "priceCaveat": "The cached single-pack price is $2.74. That snapshot marked the single and six-pack unavailable; current or local stock was not checked.",
+      "availability": {
+        "verifiedCurrent": false,
+        "observedCachedStatus": "Out of stock in retrieved snapshot",
+        "display": "Check Walmart for availability"
+      },
+      "evidence": [
+        {
+          "url": "https://www.walmart.com/ip/10307750",
+          "section": "Product header and pack selector",
+          "lineRange": "299–320",
+          "supports": [
+            "name",
+            "pack",
+            "displayedPriceUSD",
+            "unitPrice",
+            "rating",
+            "ratingCount",
+            "observedCachedStatus"
+          ]
+        },
+        {
+          "url": "https://www.walmart.com/ip/10307750",
+          "section": "Key item features",
+          "lineRange": "336–342",
+          "supports": [
+            "description"
+          ]
+        },
+        {
+          "url": "https://www.walmart.com/ip/10307750",
+          "section": "Customer ratings & reviews",
+          "lineRange": "883–889",
+          "supports": [
+            "rating",
+            "ratingCount",
+            "reviewCount"
+          ]
+        }
+      ]
+    }
+  ]
+}

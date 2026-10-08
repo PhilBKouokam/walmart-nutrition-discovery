@@ -1,0 +1,56 @@
+{
+  "retrieved_at": "2026-10-05T18:53:00Z",
+  "scope": "Public manufacturer product imagery and label data for a private illustrative Walmart-style energy/protein-bar filtering walkthrough. Filter thresholds are prototype examples, not Walmart definitions. Photos are original downloads, not screenshot crops or edited images.",
+  "products": [
+    {
+      "id": "quest-cookie-dough",
+      "name": "Quest Chocolate Chip Cookie Dough Protein Bars",
+      "pack": "4 bars, 2.12 oz (60 g) each",
+      "serving_size": "1 bar (60g)",
+      "calories": 190,
+      "protein_g": 21,
+      "source_url": "https://www.questnutrition.com/products/chocolate-chip-cookie-dough-protein-bar",
+      "label_source_url": "https://www.questnutrition.com/products/chocolate-chip-cookie-dough-protein-bar",
+      "verification": "Manufacturer nutrition facts text confirms 1 bar (60g), 190 calories, 21g protein. Downloaded pack photo visually confirms flavor, 4-bar count, 60g bars and 21g protein.",
+      "image_file": "quest-chocolate-chip-cookie-dough-4ct.jpg",
+      "image_url": "https://www.questnutrition.com/cdn/shop/files/qst-003853-chocolate-chip-cookie-dough-protein-bars_2.jpg?v=1773844149",
+      "price": null,
+      "image_bytes": 300006,
+      "image_sha256": "b0040d538401f35ebfc75aa63d183a8c77048d44e59400c05a2ad1ed71829a2c"
+    },
+    {
+      "id": "clif-chocolate-chip",
+      "name": "CLIF BAR Chocolate Chip Energy Bars",
+      "pack": "12 bars, 2.40 oz (68 g) each",
+      "serving_size": "1 bar (68g)",
+      "calories": 250,
+      "protein_g": 10,
+      "source_url": "https://www.clifbar.com/products/clif-bar-chocolate-chip",
+      "label_source_url": "https://cdn.shopify.com/s/files/1/0341/0637/6325/files/10090022_R19_DTC_CLF_CHC_NF.png?v=1741804634",
+      "verification": "Manufacturer product page links this nutrition-label image. Viewed label confirms 1 bar (68g), 250 calories and 10g protein. Viewed original 12-bar box photo confirms flavor, count, weight and 10g protein.",
+      "image_file": "clif-chocolate-chip-box.png",
+      "image_url": "https://cdn.shopify.com/s/files/1/0341/0637/6325/files/MB_carousel_PDP_Alt_Images_dtc_v15.png?v=1748467087",
+      "label_image_file": "clif-chocolate-chip-nutrition.png",
+      "price": null,
+      "image_bytes": 638159,
+      "image_sha256": "5c40a481b37b96a8932e2d58a194319ee9069f5a6b64f70ad4d88d512425e00d"
+    },
+    {
+      "id": "kind-dark-chocolate-nuts-sea-salt",
+      "name": "KIND Dark Chocolate Nuts & Sea Salt Nut Bars",
+      "pack": "12 bars, 1.4 oz (40 g) each",
+      "serving_size": "1 bar (40g)",
+      "calories": 190,
+      "protein_g": 6,
+      "source_url": "https://www.kindsnacks.com/products/nut-bar/dark-chocolate-nuts-sea-salt",
+      "label_source_url": "https://www.kindsnacks.com/sites/g/files/fnmzdf5536/files/migrate-product-files/l40hwhhumxknb7ebgeoj.png",
+      "verification": "Manufacturer nutrition facts text and viewed label image agree: 1 bar (40g), 190 calories, 6g protein. This is the regular nut bar, not THINS or ZEROg Added Sugar. Viewed original box photo confirms 12 bars, 40g bars and 6g protein. Use 190 calories; the tentative 180 is not supported by this current label.",
+      "image_file": "kind-dark-chocolate-nuts-sea-salt.png",
+      "image_url": "https://www.kindsnacks.com/sites/g/files/fnmzdf5536/files/migrate-product-files/puubvwlzlzvatzmggjur.png",
+      "label_image_file": "kind-dark-chocolate-nuts-sea-salt-alt.png",
+      "price": null,
+      "image_bytes": 4176905,
+      "image_sha256": "a8638fdf467646c87c091f15243ee644a66ee341e4c90d23ecbf921fac91186f"
+    }
+  ]
+}

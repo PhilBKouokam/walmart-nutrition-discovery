@@ -1,0 +1,54 @@
+{
+  "retrievedAt": "2026-10-05T15:36:00Z",
+  "purpose": "Private product-filter review prototype; source-attributed public product imagery. No representation of sponsorship or a reuse license.",
+  "products": [
+    {
+      "id": "great-value-no-sugar-apple",
+      "name": "Great Value No Sugar Added Apple Pie Filling & Topping, 20 oz",
+      "productUrl": "https://www.walmart.com/ip/Great-Value-No-Sugar-Added-Apple-Pie-Filling-Topping-20-oz/13925174",
+      "imageUrl": "https://i5.walmartimages.com/seo/Great-Value-No-Sugar-Added-Apple-Pie-Filling-Topping-20-oz_da20df29-060e-43fe-b64a-44dea0a1471d.d131a457cd600b612f54e88140a7b620.jpeg?odnBg=FFFFFF&odnHeight=573&odnWidth=573",
+      "localFile": "great-value-no-sugar-apple.jpg",
+      "displayedPriceUSD": 2.48,
+      "priceCaveat": "Observed public-page price; not a local or current guaranteed offer.",
+      "servingSize": "1/3 cup (85g)",
+      "servingSource": "https://www.walmart.com/ip/13925174",
+      "calories": 30,
+      "calorieSource": "https://i5.walmartimages.com/asr/767a76d8-9fde-42ce-aa06-f284c0c87b53.436afb0ade20b34967f964fea0475baf.jpeg?odnBg=FFFFFF&odnHeight=573&odnWidth=573",
+      "nutritionVerification": "Visually verified on nutrition label image from this Walmart product page: 30 calories per 1/3 cup (85g).",
+      "nutritionLabelFile": "great-value-nutrition.jpg"
+    },
+    {
+      "id": "lucky-leaf-apple",
+      "name": "Lucky Leaf Apple Pie Filling, 21 oz",
+      "productUrl": "https://www.walmart.com/ip/Lucky-Leaf-Apple-Pie-Filling-21-Oz/10291296",
+      "manufacturerUrl": "https://www.luckyleaf.com/product/premium-apple-fruit-filling-or-topping/",
+      "imageUrl": "https://i5.walmartimages.com/seo/Lucky-Leaf-Apple-Pie-Filling-21-oz_fd5d8601-3e3f-4ad1-97bf-b675d63ceca8.7792b08bcaea8cb84d60c4cf45005002.png?odnBg=FFFFFF&odnHeight=573&odnWidth=573",
+      "localFile": "lucky-leaf-apple.png",
+      "displayedPriceUSD": 7.85,
+      "priceCaveat": "Opened Walmart page showed $7.85 single; indexed search showed $7.55. Seller and snapshot variability. Not a local or guaranteed offer.",
+      "servingSize": "1/3 cup (85g)",
+      "calories": 90,
+      "calorieSource": "https://i5.walmartimages.com/asr/e919e727-4f0e-4309-b770-5ae0bf242a66.b97813fcab06eb37af437f5e134f3afd.png?odnBg=FFFFFF&odnHeight=573&odnWidth=573",
+      "manufacturerLabelUrl": "https://www.luckyleaf.com/wp-content/uploads/nutrition-info-fruit-filling-premium-apple-315x600.png",
+      "nutritionVerification": "Visually verified on nutrition label image from this Walmart product page: 90 calories per 1/3 cup (85g).",
+      "nutritionLabelFile": "lucky-leaf-back.png"
+    },
+    {
+      "id": "comstock-country-apple",
+      "name": "Duncan Hines Comstock, Country Apple Pie Filling & Topping, Ready to Use, 21 oz.",
+      "productUrl": "https://www.walmart.com/ip/Duncan-Hines-Comstock-Original-Country-Apple-Pie-Filling-and-Topping-21-oz/10307750",
+      "manufacturerUrl": "https://www.duncanhines.com/pie-filling/comstock/comstock-original-country-apple",
+      "imageUrl": "https://i5.walmartimages.com/seo/Duncan-Hines-Comstock-Original-Country-Apple-Pie-Filling-and-Topping-21-oz_a93b4396-721d-4888-a5df-c6e3ba8ecfe7.7f149f2bd07c45908df896a67a6cde4b.jpeg?odnBg=FFFFFF&odnHeight=573&odnWidth=573",
+      "localFile": "comstock-country-apple.jpg",
+      "displayedPriceUSD": 2.74,
+      "priceCaveat": "Observed public-page price; not a local or current guaranteed offer. Indexed search showed single pack out of stock.",
+      "servingSize": "1/3 cup (89g)",
+      "calories": 110,
+      "nutritionVerification": "Visually verified actual nutrition-label image in Walmart product gallery: 110 calories per 1/3 cup (89g). A separate marketing image in the same gallery says 100 calories per serving. The nutrition-label value is prioritized; disclose inconsistency or mark unverified if stricter certainty is required.",
+      "calorieSource": "https://i5.walmartimages.com/asr/349fa71f-390e-448a-ad20-5c6bd4eda754.9f4f9008f94f2fd1eb45b386d7aee998.jpeg?odnBg=FFFFFF&odnHeight=573&odnWidth=573",
+      "nutritionLabelFile": "comstock-gallery-6.jpg",
+      "conflictingMarketingCalories": 100,
+      "conflictingMarketingSource": "https://i5.walmartimages.com/asr/3f151b39-2e80-458c-80ca-f9009b4bbf9d.e6c4b38d9aa67313587ac749ee86f906.jpeg?odnBg=FFFFFF&odnHeight=117&odnWidth=117"
+    }
+  ]
+}

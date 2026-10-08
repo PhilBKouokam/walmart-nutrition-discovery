@@ -1,0 +1,8 @@
+{
+  "name": "walmart-nutrition-discovery",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node scripts/check-syntax.mjs"
+  }
+}

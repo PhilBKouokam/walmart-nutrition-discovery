@@ -1,0 +1,149 @@
+{
+  "prepared_on": "2026-10-08",
+  "policy": "No original raster product imagery, nutrition-label downloads, user screenshots or retailer screenshot crops are included. Runtime uses authored neutral SVG placeholders.",
+  "assets": [
+    {
+      "original_filename": "clif-chocolate-chip-box.png",
+      "kind": "product/reference",
+      "original_sha256": "5c40a481b37b96a8932e2d58a194319ee9069f5a6b64f70ad4d88d512425e00d",
+      "included_original_pixels": false,
+      "placeholder_filename": "clif-chocolate-chip-box.svg",
+      "source_links": [
+        "https://cdn.shopify.com/s/files/1/0341/0637/6325/files/10090022_R19_DTC_CLF_CHC_NF.png?v=1741804634",
+        "https://cdn.shopify.com/s/files/1/0341/0637/6325/files/MB_carousel_PDP_Alt_Images_dtc_v15.png?v=1748467087",
+        "https://www.clifbar.com/products/clif-bar-chocolate-chip"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "compact-nutrition-fit.png",
+      "kind": "product/reference",
+      "original_sha256": "d35d651cac97760399516a5329fe9468df91a40c39a09de9a23dcad955978bd9",
+      "included_original_pixels": false,
+      "placeholder_filename": "compact-nutrition-fit.svg",
+      "source_links": [],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "comstock-country-apple.jpg",
+      "kind": "product/reference",
+      "original_sha256": "71f73fd589586e8598cdb833609cbbb805473996af9ff8d4a32e2bdbd5e868e3",
+      "included_original_pixels": false,
+      "placeholder_filename": "comstock-country-apple.svg",
+      "source_links": [
+        "https://i5.walmartimages.com/asr/349fa71f-390e-448a-ad20-5c6bd4eda754.9f4f9008f94f2fd1eb45b386d7aee998.jpeg?odnBg=FFFFFF&odnHeight=573&odnWidth=573",
+        "https://i5.walmartimages.com/asr/3f151b39-2e80-458c-80ca-f9009b4bbf9d.e6c4b38d9aa67313587ac749ee86f906.jpeg?odnBg=FFFFFF&odnHeight=117&odnWidth=117",
+        "https://i5.walmartimages.com/seo/Duncan-Hines-Comstock-Original-Country-Apple-Pie-Filling-and-Topping-21-oz_a93b4396-721d-4888-a5df-c6e3ba8ecfe7.7f149f2bd07c45908df896a67a6cde4b.jpeg?odnBg=FFFFFF&odnHeight=573&odnWidth=573",
+        "https://www.duncanhines.com/pie-filling/comstock/comstock-original-country-apple",
+        "https://www.walmart.com/ip/Duncan-Hines-Comstock-Original-Country-Apple-Pie-Filling-and-Topping-21-oz/10307750"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "fiber-one-front-display.jpg",
+      "kind": "product/reference",
+      "original_sha256": "2f1d9badcad543ea0cf493cee8fbfc8398389c9e3f6debb6303f8b6547b08ada",
+      "included_original_pixels": false,
+      "placeholder_filename": "fiber-one-front-display.svg",
+      "source_links": [
+        "https://assets.syndigo.com/8e1e9911-f803-447f-944c-c576be44273e?numRatio=1&denRatio=1&size=2200&ppi=300&palete=RGB&color=4294967295&maxKbs=5000&bColor=FFFFFFFF&fileType=jpg&strip=All",
+        "https://i5.walmartimages.com/seo/Fiber-One-70-Calorie-Brownies-Chocolate-Fudge-Snack-Bars-Mega-Pack-18-Bars-16-oz_01528d03-9a8a-4d47-a7f0-3591cbc580ec.f83a357a9e0c89b4f470139cbacc3287.jpeg?odnBg=FFFFFF&odnHeight=573&odnWidth=573",
+        "https://www.fiberone.com/products/chocolate-fudge-70-calorie-brownies",
+        "https://www.walmart.com/ip/Fiber-One-70-Calorie-Brownies-Chocolate-Fudge-Snack-Bars-Mega-Pack-18-Bars-16-oz/25847970"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "great-value-no-sugar-apple.jpg",
+      "kind": "product/reference",
+      "original_sha256": "59aa4e11493e1835b5bff1f12631e71ca0bb61d94e763adfab9f891980995351",
+      "included_original_pixels": false,
+      "placeholder_filename": "great-value-no-sugar-apple.svg",
+      "source_links": [
+        "https://i5.walmartimages.com/asr/767a76d8-9fde-42ce-aa06-f284c0c87b53.436afb0ade20b34967f964fea0475baf.jpeg?odnBg=FFFFFF&odnHeight=573&odnWidth=573",
+        "https://i5.walmartimages.com/seo/Great-Value-No-Sugar-Added-Apple-Pie-Filling-Topping-20-oz_da20df29-060e-43fe-b64a-44dea0a1471d.d131a457cd600b612f54e88140a7b620.jpeg?odnBg=FFFFFF&odnHeight=573&odnWidth=573",
+        "https://www.walmart.com/ip/13925174",
+        "https://www.walmart.com/ip/Great-Value-No-Sugar-Added-Apple-Pie-Filling-Topping-20-oz/13925174"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "gv-front-display.jpg",
+      "kind": "product/reference",
+      "original_sha256": "0e941ba8d93ce6a3fac4298fcf6f93f6cb33b4595808d940af254333919a3054",
+      "included_original_pixels": false,
+      "placeholder_filename": "gv-front-display.svg",
+      "source_links": [
+        "https://i5.walmartimages.com/asr/1514b573-c57a-4835-af87-f264743d9074.9560a5874517ac74943e37f8da8df3fc.jpeg?odnBg=FFFFFF&odnHeight=573&odnWidth=573",
+        "https://i5.walmartimages.com/asr/6fa75a05-0720-4166-8789-608368273604.5e6b5b10cc2ed13f1666b962081ff972.jpeg?odnWidth=250&odnHeight=250&odnBg=FFFFFF",
+        "https://i5.walmartimages.com/seo/Great-Value-Chocolate-Fudge-Fiber-Brownie-Baked-Bars-Value-Pack-0-89-oz-12-Count_8cdbe6bd-814c-4e65-8b13-20ac765b340f.cf1d15a77f3e40e53d0491832a6098d1.jpeg?odnBg=FFFFFF&odnHeight=573&odnWidth=573",
+        "https://www.walmart.com/ip/Great-Value-Chocolate-Fudge-Fiber-Brownie-Baked-Bars-Value-Pack-0-89-oz-12-Count/163790745"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "kind-dark-chocolate-nuts-sea-salt.png",
+      "kind": "product/reference",
+      "original_sha256": "a8638fdf467646c87c091f15243ee644a66ee341e4c90d23ecbf921fac91186f",
+      "included_original_pixels": false,
+      "placeholder_filename": "kind-dark-chocolate-nuts-sea-salt.svg",
+      "source_links": [
+        "https://www.kindsnacks.com/products/nut-bar/dark-chocolate-nuts-sea-salt",
+        "https://www.kindsnacks.com/sites/g/files/fnmzdf5536/files/migrate-product-files/l40hwhhumxknb7ebgeoj.png",
+        "https://www.kindsnacks.com/sites/g/files/fnmzdf5536/files/migrate-product-files/puubvwlzlzvatzmggjur.png"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "lucky-leaf-apple.png",
+      "kind": "product/reference",
+      "original_sha256": "baf6bafe72e233a2f01c288db64e3a5f52cf88c04e60bcccb69e004f82c06d3b",
+      "included_original_pixels": false,
+      "placeholder_filename": "lucky-leaf-apple.svg",
+      "source_links": [
+        "https://i5.walmartimages.com/asr/e919e727-4f0e-4309-b770-5ae0bf242a66.b97813fcab06eb37af437f5e134f3afd.png?odnBg=FFFFFF&odnHeight=573&odnWidth=573",
+        "https://i5.walmartimages.com/seo/Lucky-Leaf-Apple-Pie-Filling-21-oz_fd5d8601-3e3f-4ad1-97bf-b675d63ceca8.7792b08bcaea8cb84d60c4cf45005002.png?odnBg=FFFFFF&odnHeight=573&odnWidth=573",
+        "https://www.luckyleaf.com/product/premium-apple-fruit-filling-or-topping/",
+        "https://www.luckyleaf.com/wp-content/uploads/nutrition-info-fruit-filling-premium-apple-315x600.png",
+        "https://www.walmart.com/ip/Lucky-Leaf-Apple-Pie-Filling-21-Oz/10291296"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "quest-chocolate-chip-cookie-dough-4ct.jpg",
+      "kind": "product/reference",
+      "original_sha256": "b0040d538401f35ebfc75aa63d183a8c77048d44e59400c05a2ad1ed71829a2c",
+      "included_original_pixels": false,
+      "placeholder_filename": "quest-chocolate-chip-cookie-dough-4ct.svg",
+      "source_links": [
+        "https://www.questnutrition.com/cdn/shop/files/qst-003853-chocolate-chip-cookie-dough-protein-bars_2.jpg?v=1773844149",
+        "https://www.questnutrition.com/products/chocolate-chip-cookie-dough-protein-bar"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    },
+    {
+      "original_filename": "zbar-front-display.jpg",
+      "kind": "product/reference",
+      "original_sha256": "f244867268f5c0c42fdbe0f949781687e79eba536d03f17d228e99da61967268",
+      "included_original_pixels": false,
+      "placeholder_filename": "zbar-front-display.svg",
+      "source_links": [
+        "https://i5.walmartimages.com/seo/Zbar-Chocolate-Brownie-Soft-Baked-Snack-Bars-Non-GMO-10g-Whole-Grains-USDA-Organic-Granola-Bars-6-Pack_8f1becc7-a01d-4d73-b141-db07356457b9.db4e57305eda45e6d8d5d9088b4e140f.jpeg?odnBg=FFFFFF&odnHeight=573&odnWidth=573",
+        "https://images.salsify.com/image/upload/s--0V4gOQp7--/dn_300/56fa57d31a65fbb71200eb1f600333c0a365fa5a.jpg",
+        "https://www.clifbar.com/products/clif-kid-zbar-chocolate-brownie",
+        "https://www.walmart.com/ip/Zbar-Chocolate-Brownie-Soft-Baked-Snack-Bars-Non-GMO-10g-Whole-Grains-USDA-Organic-Granola-Bars-6-Pack/28646397"
+      ],
+      "provenance": "Source URLs retained from the original fixtures/source documents where available; exact media URL is not established for every file.",
+      "rights": "Third-party redistribution permission was not established. Original media is omitted; links are attribution, not permission."
+    }
+  ]
+}

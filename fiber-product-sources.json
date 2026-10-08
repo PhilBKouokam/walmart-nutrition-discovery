@@ -1,0 +1,184 @@
+{
+  "schema_version": 1,
+  "purpose": "Verified public product data and unedited public source images for private shopping prototype.",
+  "captured_on": "2026-10-06",
+  "asset_policy": "Images downloaded byte-for-byte from public Walmart CDN or label-image URLs linked by Walmart. CDN display rendition is used; no local cropping, compositing, recoloring, screenshot extraction, or pixel editing.",
+  "screenshot_snapshot_not_live": {
+    "gv": {
+      "price_usd": 5.44,
+      "unit_price": "51.3¢/oz",
+      "displayed_count": 3676
+    },
+    "fiber-one": {
+      "price_usd": 9.36,
+      "unit_price": "58.5¢/oz",
+      "displayed_count": 6230
+    }
+  },
+  "snapshot_warning": "Use price, unit price, ratings and written-review count from one captured product record. Search caches can have older prices/counts. Screenshot prices are historical reference only.",
+  "products": [
+    {
+      "id": "gv",
+      "walmart_item_id": "163790745",
+      "name": "Great Value Chocolate Fudge Fiber Brownie Baked Bars, Value Pack, 0.89 oz, 12 Count",
+      "brand": "Great Value",
+      "variant": {
+        "count": 12,
+        "net_weight_oz": 10.6,
+        "serving": "1 bar (25g)",
+        "serving_g": 25,
+        "calories": 90,
+        "dietary_fiber_g": 5,
+        "fiber_daily_value_percent": 18,
+        "nutrition_image": "gv-nutrition-display.jpg",
+        "nutrition_verification": "Read directly from Walmart nutrition-panel photo.",
+        "notes": [
+          "Walmart title says 0.89 oz per brownie, but front pack photo says 0.88 oz (25g). Serving label confirms 25g."
+        ]
+      },
+      "price_usd": 5.72,
+      "unit_price_display": "54.0 ¢/oz",
+      "average_rating": 4.7,
+      "ratings_count": 3676,
+      "written_reviews_count": 586,
+      "review_count_semantics": "Walmart product.numberOfReviews and reviews.totalReviewCount are displayed as ratings. reviews.reviewsWithTextCount is the written-review count.",
+      "product_source": "https://www.walmart.com/ip/Great-Value-Chocolate-Fudge-Fiber-Brownie-Baked-Bars-Value-Pack-0-89-oz-12-Count/163790745",
+      "source_capture_date_utc": "2026-10-06",
+      "source_type": "Direct public Walmart HTML fetch, product-specific initialData; price may vary by location and time.",
+      "source_archive": "gv-walmart.html",
+      "structured_source_archive": "gv-walmart-next.json",
+      "hero_image": "gv-front-display.jpg",
+      "hero_source": "https://i5.walmartimages.com/seo/Great-Value-Chocolate-Fudge-Fiber-Brownie-Baked-Bars-Value-Pack-0-89-oz-12-Count_8cdbe6bd-814c-4e65-8b13-20ac765b340f.cf1d15a77f3e40e53d0491832a6098d1.jpeg?odnBg=FFFFFF&odnHeight=573&odnWidth=573",
+      "nutrition_source": "https://i5.walmartimages.com/asr/6fa75a05-0720-4166-8789-608368273604.5e6b5b10cc2ed13f1666b962081ff972.jpeg?odnWidth=250&odnHeight=250&odnBg=FFFFFF",
+      "nutrition_photo_source": "https://i5.walmartimages.com/asr/1514b573-c57a-4835-af87-f264743d9074.9560a5874517ac74943e37f8da8df3fc.jpeg?odnBg=FFFFFF&odnHeight=573&odnWidth=573"
+    },
+    {
+      "id": "fiber-one",
+      "walmart_item_id": "25847970",
+      "name": "Fiber One Soft Baked Chocolate Fudge Brownies, Fiber Snacks, Mega Pack, 18 Ct, 16 oz",
+      "brand": "Fiber One",
+      "variant": {
+        "count": 18,
+        "net_weight_oz": 16,
+        "serving": "1 brownie (25g)",
+        "serving_g": 25,
+        "calories": 70,
+        "dietary_fiber_g": 7,
+        "fiber_daily_value_percent": 26,
+        "nutrition_image": "fiber-one-nutrition-proof.jpg",
+        "nutrition_verification": "Read directly from Walmart-linked 18-serving nutrition-panel photo: 1 brownie (25g), 70 calories, 7g dietary fiber. These required values agree with current manufacturer page.",
+        "notes": [
+          "Current manufacturer formulation has 7g dietary fiber. Do not copy older 6g formulation data.",
+          "Walmart-linked label photo shows 26% fiber DV; current manufacturer page and front pack photo say 25%. Required calories, dietary fiber grams and serving size agree. Prefer showing those agreed facts; do not conflate the inconsistent DV percent/iron values."
+        ]
+      },
+      "price_usd": 9.83,
+      "unit_price_display": "61.4 ¢/oz",
+      "average_rating": 4.6,
+      "ratings_count": 6230,
+      "written_reviews_count": 1704,
+      "review_count_semantics": "Walmart product.numberOfReviews and reviews.totalReviewCount are displayed as ratings. reviews.reviewsWithTextCount is the written-review count.",
+      "product_source": "https://www.walmart.com/ip/Fiber-One-70-Calorie-Brownies-Chocolate-Fudge-Snack-Bars-Mega-Pack-18-Bars-16-oz/25847970",
+      "source_capture_date_utc": "2026-10-06",
+      "source_type": "Direct public Walmart HTML fetch, product-specific initialData; price may vary by location and time.",
+      "source_archive": "fiber-one-walmart.html",
+      "structured_source_archive": "fiber-one-walmart-next.json",
+      "hero_image": "fiber-one-front-display.jpg",
+      "hero_source": "https://i5.walmartimages.com/seo/Fiber-One-70-Calorie-Brownies-Chocolate-Fudge-Snack-Bars-Mega-Pack-18-Bars-16-oz_01528d03-9a8a-4d47-a7f0-3591cbc580ec.f83a357a9e0c89b4f470139cbacc3287.jpeg?odnBg=FFFFFF&odnHeight=573&odnWidth=573",
+      "nutrition_source": "https://assets.syndigo.com/8e1e9911-f803-447f-944c-c576be44273e?numRatio=1&denRatio=1&size=2200&ppi=300&palete=RGB&color=4294967295&maxKbs=5000&bColor=FFFFFFFF&fileType=jpg&strip=All",
+      "manufacturer_source": "https://www.fiberone.com/products/chocolate-fudge-70-calorie-brownies"
+    },
+    {
+      "id": "zbar",
+      "walmart_item_id": "28646397",
+      "name": "Zbar Chocolate Brownie Soft-Baked Energy Snack Bars, Organic Granola Bars, Snacks for Kids, 6ct",
+      "brand": "ZBAR",
+      "variant": {
+        "count": 6,
+        "net_weight_oz": 7.62,
+        "serving": "1 bar (36g)",
+        "serving_g": 36,
+        "calories": 140,
+        "dietary_fiber_g": 3,
+        "fiber_daily_value_percent": 10,
+        "nutrition_image": "zbar-nutrition-label.jpg",
+        "nutrition_verification": "Read directly from nutrition-panel photo linked by Walmart.",
+        "notes": [
+          "Exact verified flavor is Chocolate Brownie, not Iced Brownie. Do not label this Iced Brownie. Current Walmart hero packaging has Toy Story graphics."
+        ]
+      },
+      "price_usd": 5.82,
+      "unit_price_display": "76.6 ¢/oz",
+      "average_rating": 4.6,
+      "ratings_count": 858,
+      "written_reviews_count": 230,
+      "review_count_semantics": "Walmart product.numberOfReviews and reviews.totalReviewCount are displayed as ratings. reviews.reviewsWithTextCount is the written-review count.",
+      "product_source": "https://www.walmart.com/ip/Zbar-Chocolate-Brownie-Soft-Baked-Snack-Bars-Non-GMO-10g-Whole-Grains-USDA-Organic-Granola-Bars-6-Pack/28646397",
+      "source_capture_date_utc": "2026-10-06",
+      "source_type": "Direct public Walmart HTML fetch, product-specific initialData; price may vary by location and time.",
+      "source_archive": "zbar-walmart.html",
+      "structured_source_archive": "zbar-walmart-next.json",
+      "hero_image": "zbar-front-display.jpg",
+      "hero_source": "https://i5.walmartimages.com/seo/Zbar-Chocolate-Brownie-Soft-Baked-Snack-Bars-Non-GMO-10g-Whole-Grains-USDA-Organic-Granola-Bars-6-Pack_8f1becc7-a01d-4d73-b141-db07356457b9.db4e57305eda45e6d8d5d9088b4e140f.jpeg?odnBg=FFFFFF&odnHeight=573&odnWidth=573",
+      "nutrition_source": "https://images.salsify.com/image/upload/s--0V4gOQp7--/dn_300/56fa57d31a65fbb71200eb1f600333c0a365fa5a.jpg",
+      "manufacturer_source": "https://www.clifbar.com/products/clif-kid-zbar-chocolate-brownie"
+    }
+  ],
+  "assets": [
+    {
+      "file": "fiber-one-front-display.jpg",
+      "bytes": 69369,
+      "sha256": "2f1d9badcad543ea0cf493cee8fbfc8398389c9e3f6debb6303f8b6547b08ada"
+    },
+    {
+      "file": "fiber-one-front.jpg",
+      "bytes": 426779,
+      "sha256": "c12ab5e45185f19d247b50f01642dcdf8a019713521674cfcf09ac541d1b82a2"
+    },
+    {
+      "file": "fiber-one-nutrition-label.jpg",
+      "bytes": 198124,
+      "sha256": "6ed6030ed6e3b5a9a6a0a062702b0b90134df2f95c4f0057758701ab5bd55edd"
+    },
+    {
+      "file": "fiber-one-nutrition-proof.jpg",
+      "bytes": 198124,
+      "sha256": "6ed6030ed6e3b5a9a6a0a062702b0b90134df2f95c4f0057758701ab5bd55edd"
+    },
+    {
+      "file": "gv-back.jpg",
+      "bytes": 1451515,
+      "sha256": "7f2ee9d0a0818ed7ef946b317fa920d5ea78dbd279c315f13fe9d7972cd856ad"
+    },
+    {
+      "file": "gv-front-display.jpg",
+      "bytes": 55438,
+      "sha256": "0e941ba8d93ce6a3fac4298fcf6f93f6cb33b4595808d940af254333919a3054"
+    },
+    {
+      "file": "gv-nutrition-display.jpg",
+      "bytes": 39386,
+      "sha256": "ddfafdc300b59a395dc376e0ac279a67c29559b3a4974c064ca2e1faf29896c9"
+    },
+    {
+      "file": "gv-nutrition-label.jpg",
+      "bytes": 9888,
+      "sha256": "07389d81d03b60279674a9c7453523f13fa77ed43b79e0ea77c0886ffbae6a0d"
+    },
+    {
+      "file": "gv-nutrition-package.jpg",
+      "bytes": 340140,
+      "sha256": "a20e628f68b8ec38c53ffee64d2c5d9eaf646ae33de328f97e9df60c05c2e61d"
+    },
+    {
+      "file": "zbar-front-display.jpg",
+      "bytes": 77871,
+      "sha256": "f244867268f5c0c42fdbe0f949781687e79eba536d03f17d228e99da61967268"
+    },
+    {
+      "file": "zbar-nutrition-label.jpg",
+      "bytes": 371095,
+      "sha256": "b65defb886c9dc154128157e9c0347c33ebd77eb06d49661f97cf83e93e51a5c"
+    }
+  ]
+}

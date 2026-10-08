@@ -1,0 +1,75 @@
+{
+  "checked_date_utc": "2026-10-05",
+  "purpose": "Reconstruct the exact reference product row with unchanged public product images; snapshot illustration, not a current purchasable offer.",
+  "quantum": {
+    "exact_listing_title": "Quantum Energy Square: Energy Bar with Caffeine & Protein,Chocolate Chip Cookie Dough 1.69oz",
+    "single_bar_product_id": "17976500095",
+    "public_product_url": "https://www.walmart.com/ip/Quantum-Energy-Square-Energy-Bar-with-Caffeine-Protein-Chocolate-Chip-Cookie-Dough-1-69oz/17976500095",
+    "direct_product_url_status": "HTTP 404 on 2026-10-05; linked publicly from the verified category HTML.",
+    "verified_category_url": "https://www.walmart.com/c/kp/energy-cube",
+    "category_source_file": "quantum_walmart_category.html",
+    "category_extracted_item_file": "quantum_walmart_category_item.json",
+    "reference_snapshot": {
+      "price_usd": 1.98,
+      "rating": 5,
+      "review_count": 104,
+      "snap_ebt_eligible": true,
+      "source": "Screenshot details supplied by parent. Price/rating/review count independently corroborated by public Walmart category; SNAP badge is screenshot-only."
+    },
+    "verified_facts": {
+      "protein_grams_per_bar": 10,
+      "caffeine_mg_per_bar": 100,
+      "net_weight_oz": 1.69,
+      "net_weight_grams": 48,
+      "calories_per_bar": null,
+      "calories_status": "Unverified for exact single SKU; conflicting secondary values 200 and 210. Do not display or infer. Official manufacturer search text and pack image verify 10g protein and 100mg caffeine; Walmart title verifies 1.69 oz. Manufacturer/8-pack listing supports 48g."
+    },
+    "manufacturer_url": "https://quantumsquares.com/products/chocolate-chip-cookie-dough",
+    "asset_caveat": "The exact single-bar listing points to an 8-pack box image. Preserve that mismatch in a faithful screenshot/reference reconstruction. The separately supplied single-wrapper image is real product art from the related Walmart 8-pack product page, not the single-bar SKU gallery. No screenshot crop or generated/edited product imagery was used.",
+    "assets": [
+      {
+        "file": "quantum_walmart_box.png",
+        "public_url": "https://i5.walmartimages.com/seo/Quantum-Energy-Square-Energy-Bar-with-Caffeine-Protein-Chocolate-Chip-Cookie-Dough-1-69oz_96b49038-1d04-496b-b283-1f27e4b8cfec.a8e5e02004cbe1c566fcc3b42db17546.png",
+        "source_page": "https://www.walmart.com/c/kp/energy-cube",
+        "depicts": "8-pack box, despite single 1.69 oz listing title",
+        "recommended_use": "Faithful reference-versus-proposal reconstruction matching screenshot source art",
+        "sha256": "3073b2bb2eda42c879eed4a8a1398f0e43ed70bd9913c6a950b45d4268589850",
+        "bytes": 990369,
+        "dimensions": [
+          2000,
+          2000
+        ],
+        "unchanged_download": true
+      },
+      {
+        "file": "quantum_walmart_wrapper.png",
+        "public_url": "https://i5.walmartimages.com/seo/Quantum-Energy-Square-Energy-Bar-Caffeine-10g-Protein-Delicious-Healthy-Snack-Go-Vegan-Gluten-free-Soy-free-Dairy-free-Flavor-Chocolate-Chip-Cookie-D_6099a58b-de4f-4d67-8384-0f842923b60e.a7b9bf87a7016a2b871cbfc261287878.png",
+        "source_page": "https://www.walmart.com/ip/15402868177",
+        "depicts": "Single wrapped Chocolate Chip Cookie Dough Quantum square",
+        "recommended_use": "Optional real wrapper art; disclose it originates from related 8-pack listing",
+        "sha256": "0279178b876dbe51e7ea8c77d2c1d6cf53d6f5f5f0c10d5abf5929c354980f26",
+        "bytes": 509626,
+        "dimensions": [
+          2000,
+          1372
+        ],
+        "unchanged_download": true
+      }
+    ],
+    "recommended_row_label": "10 g protein · per bar (1.69 oz)",
+    "filter_caveat": "Do not count this product as passing a calories filter until exact nutrition is verified."
+  },
+  "kize": {
+    "status": "Secondary work stopped as requested once Quantum assets resolved.",
+    "screenshot_only": {
+      "title": "KiZE Energy Protein Bars, Brownie Batter, 5 Count",
+      "price_usd": 6.97,
+      "was_price_usd": 7.96,
+      "unit_price_cents_per_oz": 87.1,
+      "review_count": 658,
+      "protein_grams": 10
+    },
+    "public_category_url": "https://www.walmart.com/c/kp/brookie-protein-bar",
+    "notes": "Public search indexing corroborates title, rollback price, prior price, and unit price. Review count varies; retain 658 only as screenshot snapshot."
+  }
+}
